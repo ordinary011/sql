@@ -117,28 +117,3 @@ VALUES
 SELECT idPersons, your_name, idCars, Mark FROM yyy.persons p
 right JOIN yyy.relation rel ON p.idPersons = rel.Persons_idPersons
 right JOIN yyy.cars c ON c.idCars = rel.Cars_idCars;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -36,19 +36,3 @@ delete from family where age > 50;
 select * from family;
 
 drop table family;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
